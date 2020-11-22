@@ -1,0 +1,145 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+
+body{
+  font-family: sans-serif;
+  
+
+}
+#header{
+    padding-bottom: 150px;
+    padding-top: 20px;
+  
+}
+.forminput{
+    padding-bottom: 15px;
+}
+#article{
+    padding-bottom: 250px;
+    text-align: center;
+}
+#article h2{
+    padding-bottom: 20px;
+}
+#footer{
+    background-color: black;
+    text-align: center;
+    color: #fff;
+}
+#footer .footerclass{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 16px;
+}
+#submitbtn{
+background-color:darkorange;
+padding: 5px;
+border: none;
+color: white;
+font-size: 15px;
+margin-top: 20px;
+}
+
+#header1{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color:#834c24;
+    color:white;
+    
+
+}
+
+#header1 .nav{
+
+    display: inline-flex;
+    
+    
+    
+}
+.menu a{
+    text-decoration: none;
+    padding-left: 20px;
+    
+   
+}
+.menu ul{
+   
+    display: inline-flex;
+    
+}
+.menu li{
+  
+    display: inline-flex;
+   
+    
+}
+.menu{
+    padding-top: 0px;
+    margin-left: 800px;
+}
+.heading{
+    padding-left: 10px;
+}
+.menu a{
+    color: white;
+    text-decoration: none;
+    
+
+}
+.menu a:hover{
+    color:#834c24;
+    text-decoration: none;
+    background-color: white;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+#article1{
+    
+    padding-top: 50px;
+    margin-left: 200px;     
+    line-height: 50px;
+    display: inline-flex;
+    font-size: 27px;
+    color:#834c24 ;
+}
+#article1 h2{
+    font-size: 23px;
+    color: black;
+}
+#about h2{
+    padding-top: 10px;
+    text-align: center;
+    font-size: 35px;
+}
+#about h3{
+    text-align: center;
+}
+#about h4{
+    font-size: 20px;
+}
+#skills h2{
+    padding-top: 10px;
+    text-align: center;
+    font-size: 35px;
+}
+
+#footer1 p{
+    color:white;
+padding-top: 10px;
+padding-bottom: 10px;
+    text-align: center;
+    background-color: black;
+}
+#projects h2{
+    padding-top: 10px;
+    text-align: center;
+    font-size: 35px;
+}
+hr{
+    background-color: #834c24;
+   
+}
